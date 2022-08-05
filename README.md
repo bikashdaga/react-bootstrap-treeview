@@ -30,7 +30,7 @@ Manual:
 
 ### Usage
 
-Include the correct styles, it's mainly just bootstrap but we add a few tweaks as well.
+Include the correct styles, it's mainly just [bootstrap](https://www.scaler.com/topics/css/bootstrap/) but we add a few tweaks as well.
 
 ```html
 <!-- Required CSS -->
